@@ -1,5 +1,12 @@
 package com.cydeo;
 
+import com.cydeo.task.Dish;
+import com.cydeo.task.DishData;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
+
 public class Reducing { public static void main(String[] args) {
 
     List<Integer> numbers = Arrays.asList(4,5,3,9);
